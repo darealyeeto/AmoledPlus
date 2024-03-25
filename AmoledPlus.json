@@ -1,6 +1,6 @@
 {
   "name": "AmoledPlus",
-  "description": "Darker than dark, with a twist of purple.",
+  "description": "Ported from BetterDiscord.",
   "color": "#286cff",
   "authors": [
     {
@@ -190,6 +190,6 @@
     "CHAT_GREY": "#286cff"
   },
   "background": {
-    "url": "https://github.com/darealyeeto/AmoledPlus/assets/157327107/6d2f14ed-c49d-432f-8df5-d2fe821a9db7"
+    "url": "https://github.com/darealyeeto/AmoledPlus/assets/157327107/361013e7-f253-4b96-aa2c-6a1a6c9e0fec"
   },
 }
