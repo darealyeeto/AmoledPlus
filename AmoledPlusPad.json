@@ -1,6 +1,6 @@
 {
-  "name": "AmoledPlus",
-  "description": "Darker than dark, with a twist of purple.",
+  "name": "AmoledPlusPad",
+  "description": "Ported from BetterDiscord. Tablet version of AmoledPlus.",
   "color": "#286cff",
   "authors": [
     {
