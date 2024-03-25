@@ -1,0 +1,195 @@
+{
+  "name": "AmoledPlus",
+  "description": "Darker than dark, with a twist of purple.",
+  "color": "#286cff",
+  "authors": [
+    {
+      "name": "LHgaming",
+      "id": "1149972559555735563"
+    },
+    {
+      "name": "darealyeeto",
+      "id": "980160393093730395"
+    }
+  ],
+  "semanticColors": {
+    "HEADER_PRIMARY": [
+      "#ffffff",
+      "#ffffff"
+    ],
+    "HEADER_SECONDARY": [
+      "#ffffff",
+      "#ffffff"
+    ],
+    "TEXT_NORMAL": [
+      "#ffffff",
+      "#000000"
+    ],
+    "TEXT_MUTED": [
+      "#C3C3C3",
+      "#ffffff"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#286CFF",
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#8BB0FF",
+      "#ffffff"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#36579E",
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#36579E",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#000000",
+      "#ffffff"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#000000",
+      "#ffffff"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#000000",
+      "#ffffff"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#000000",
+      "#ffffff"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#15151a",
+      "#ffffff"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#111317",
+      "#ffffff"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#000000",
+      "#ffffff"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#000000",
+      "#ffffff"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#000000",
+      "#ffffff"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "#333333",
+      "#ffffff"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#286cff",
+      "#ffffff"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#286cff",
+      "#ffffff"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#286cff",
+      "#ffffff"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#286cff",
+      "#ffffff"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "transparent",
+      "transparent"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#333333",
+      "#ffffff"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent",
+      "transparent"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#333333",
+      "#ffffff"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "transparent",
+      "transparent"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "transparent",
+      "#ffffff"
+    ],
+    "CHAT_BACKGROUND": [
+      "transparent",
+      "#ffffff"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#CCCCCC",
+      "#ffffff"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#15151a"
+    ],
+    "BG_BACKDROP": [
+      "#04010173"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#000000"
+    ],
+    "TEXT_LINK": [
+      "#286CFF",
+      "#ffffff"
+    ],
+    "KEYBOARD": [
+      "#000000",
+      "#ffffff"
+    ],
+    "CHANNEL_ICON": [
+      "#393946",
+      "#ffffff"
+    ]
+  },
+  "rawColors": {
+    "PRIMARY": "#000000",
+    "PRIMARY_100": "#ffffff",
+    "PRIMARY_200": "#ffffff",
+    "PRIMARY_300": "#B6B6B6",
+    "PRIMARY_360": "#A6A6A6",
+    "PRIMARY_400": "#286cff",
+    "PRIMARY_500": "#000000",
+    "PRIMARY_600": "#000000",
+    "PRIMARY_630": "#000000",
+    "PRIMARY_700": "#000000",
+    "PRIMARY_800": "#000000",
+    "PRIMARY_900": "#050505",
+    "PLUM_1": "#000000",
+    "PLUM_10": "#828490",
+    "PLUM_11": "#000000",
+    "PLUM_13": "#286cff",
+    "PLUM_17": "#000000",
+    "PLUM_18": "#000000",
+    "PLUM_19": "#000000",
+    "PLUM_20": "#000000",
+    "PLUM_22": "#000000",
+    "BRAND_260": "#286cff",
+    "BRAND_500": "#286cff",
+    "BRAND_900": "#ffffff",
+    "BRAND": "#286cff",
+    "YELLOW_300": "#ffffff",
+    "GREEN_600": "#ffffff",
+    "DANGER": "#2c2c2c",
+    "RED": "#848484"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#286cff"
+  },
+  "background": {
+    "url": "https://github.com/darealyeeto/AmoledPlus/assets/157327107/6d2f14ed-c49d-432f-8df5-d2fe821a9db7"
+  },
+}
